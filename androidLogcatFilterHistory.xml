@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="isValidPanLog" />
+    <option name="mostRecentlyUsed" value="UserIdFromKYC" />
     <option name="nonFavorites">
       <list>
+        <option value="UserIdFromKYC" />
         <option value="isValidPanLog" />
         <option value="package:mine " />
         <option value="package:mine AmplifyModel" />
@@ -22,7 +23,6 @@
         <option value="package:mine ConeBuilderScreen" />
         <option value="package:mine rewardMenuItemDetails" />
         <option value="package:mine RewardTiers" />
-        <option value="package:mine iscr'" />
       </list>
     </option>
   </component>
