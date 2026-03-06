@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ApiUSerDetails" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="ApiUSerDetails" />
         <option value="UserIdFromKYC" />
         <option value="isValidPanLog" />
-        <option value="package:mine " />
         <option value="package:mine AmplifyModel" />
         <option value="package:mine ApiLibApp" />
         <option value="package:mine CloudMessagingService" />
