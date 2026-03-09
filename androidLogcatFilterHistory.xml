@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KYCVerification" />
+    <option name="mostRecentlyUsed" value="FetchDataName" />
     <option name="nonFavorites">
       <list>
+        <option value="FetchDataName" />
         <option value="KYCVerification" />
         <option value="package:mine " />
         <option value="ApiUSerDetails" />
@@ -22,7 +23,6 @@
         <option value="package:mine AppGraph Reward" />
         <option value="package:mine appGraph" />
         <option value="package:mine is:crash " />
-        <option value="package:mine ConeBuilderScreen" />
       </list>
     </option>
   </component>
