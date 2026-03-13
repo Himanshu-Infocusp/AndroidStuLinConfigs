@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="UserPhoneUmberData" />
+    <option name="mostRecentlyUsed" value="KYCServiceRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="KYCServiceRequest" />
         <option value="UserPhoneUmberData" />
         <option value="IsSaveButtonEnabled" />
         <option value="create_update_kyc" />
@@ -22,7 +23,6 @@
         <option value="package:mine AppLog" />
         <option value="package:mine LoginScreen" />
         <option value="package:mine MainScreen" />
-        <option value="package:mine UiStateManager" />
       </list>
     </option>
   </component>
