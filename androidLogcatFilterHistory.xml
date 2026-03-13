@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="UserPhoneUmberData" />
     <option name="nonFavorites">
       <list>
+        <option value="UserPhoneUmberData" />
+        <option value="IsSaveButtonEnabled" />
         <option value="create_update_kyc" />
         <option value="package:mine " />
         <option value="KycUserNameError" />
@@ -20,8 +23,6 @@
         <option value="package:mine LoginScreen" />
         <option value="package:mine MainScreen" />
         <option value="package:mine UiStateManager" />
-        <option value="package:mine showLoader" />
-        <option value="package:mine AppGraph Reward" />
       </list>
     </option>
   </component>
