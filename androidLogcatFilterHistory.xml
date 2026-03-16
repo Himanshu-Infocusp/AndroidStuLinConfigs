@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KYCServiceRequest" />
+    <option name="mostRecentlyUsed" value="CountrySelected__" />
     <option name="nonFavorites">
       <list>
+        <option value="CountrySelected__" />
         <option value="KYCServiceRequest" />
         <option value="UserPhoneUmberData" />
         <option value="IsSaveButtonEnabled" />
@@ -22,7 +23,6 @@
         <option value="package:io.github.raghavsatyadev.scus" />
         <option value="package:mine AppLog" />
         <option value="package:mine LoginScreen" />
-        <option value="package:mine MainScreen" />
       </list>
     </option>
   </component>
