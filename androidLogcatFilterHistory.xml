@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CountrySelected__" />
+    <option name="mostRecentlyUsed" value="KYCServiceRequest" />
     <option name="nonFavorites">
       <list>
-        <option value="CountrySelected__" />
         <option value="KYCServiceRequest" />
+        <option value="CountrySelected__" />
         <option value="UserPhoneUmberData" />
         <option value="IsSaveButtonEnabled" />
         <option value="create_update_kyc" />
