@@ -1,14 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KYCServiceRequest" />
+    <option name="mostRecentlyUsed" value="KycStageValue" />
     <option name="nonFavorites">
       <list>
+        <option value="KycStageValue" />
+        <option value="CreateAndUdpateUiState" />
+        <option value="CreateAndUpdateApiResponse" />
         <option value="KYCServiceRequest" />
+        <option value="KYCJourneyPanScreen" />
+        <option value="package:mine " />
         <option value="CountrySelected__" />
         <option value="UserPhoneUmberData" />
         <option value="IsSaveButtonEnabled" />
         <option value="create_update_kyc" />
-        <option value="package:mine " />
         <option value="KycUserNameError" />
         <option value="FetchDataName" />
         <option value="KYCVerification" />
@@ -19,10 +23,6 @@
         <option value="package:mine ApiLibApp" />
         <option value="package:mine CloudMessagingService" />
         <option value="package:mine OutletListViewScreen" />
-        <option value="package:mine level:error " />
-        <option value="package:io.github.raghavsatyadev.scus" />
-        <option value="package:mine AppLog" />
-        <option value="package:mine LoginScreen" />
       </list>
     </option>
   </component>
