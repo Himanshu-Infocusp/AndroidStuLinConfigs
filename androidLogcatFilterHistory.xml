@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KycStageValue" />
+    <option name="mostRecentlyUsed" value="OnImagePickerFromPicker" />
     <option name="nonFavorites">
       <list>
+        <option value="OnImagePickerFromPicker" />
         <option value="KycStageValue" />
         <option value="CreateAndUdpateUiState" />
         <option value="CreateAndUpdateApiResponse" />
@@ -22,7 +23,6 @@
         <option value="package:mine AmplifyModel" />
         <option value="package:mine ApiLibApp" />
         <option value="package:mine CloudMessagingService" />
-        <option value="package:mine OutletListViewScreen" />
       </list>
     </option>
   </component>
