@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ListFirebaseStorageFiles" />
+    <option name="mostRecentlyUsed" value="SignatureValueFromApi" />
     <option name="nonFavorites">
       <list>
+        <option value="SignatureValueFromApi" />
         <option value="ListFirebaseStorageFiles" />
         <option value="OnImagePickerFromPicker" />
         <option value="KycStageValue" />
@@ -22,7 +23,6 @@
         <option value="UserIdFromKYC" />
         <option value="isValidPanLog" />
         <option value="package:mine AmplifyModel" />
-        <option value="package:mine ApiLibApp" />
       </list>
     </option>
   </component>
