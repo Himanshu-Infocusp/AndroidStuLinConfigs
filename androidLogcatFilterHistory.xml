@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="OnImagePickerFromPicker" />
+    <option name="mostRecentlyUsed" value="ListFirebaseStorageFiles" />
     <option name="nonFavorites">
       <list>
+        <option value="ListFirebaseStorageFiles" />
         <option value="OnImagePickerFromPicker" />
         <option value="KycStageValue" />
         <option value="CreateAndUdpateUiState" />
@@ -22,7 +23,6 @@
         <option value="isValidPanLog" />
         <option value="package:mine AmplifyModel" />
         <option value="package:mine ApiLibApp" />
-        <option value="package:mine CloudMessagingService" />
       </list>
     </option>
   </component>
