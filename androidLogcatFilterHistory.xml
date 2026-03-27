@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ProcessKycFileObjectRequest" />
+    <option name="mostRecentlyUsed" value="CreateOrUpdateKYCUserDetailsRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="CreateOrUpdateKYCUserDetailsRequest" />
+        <option value="KycVerificationGetStage" />
+        <option value="package:mine " />
         <option value="ProcessKycFileObjectRequest" />
         <option value="SignatureValueFromApi" />
         <option value="ListFirebaseStorageFiles" />
@@ -12,7 +15,6 @@
         <option value="CreateAndUpdateApiResponse" />
         <option value="KYCServiceRequest" />
         <option value="KYCJourneyPanScreen" />
-        <option value="package:mine " />
         <option value="CountrySelected__" />
         <option value="UserPhoneUmberData" />
         <option value="IsSaveButtonEnabled" />
@@ -21,8 +23,6 @@
         <option value="FetchDataName" />
         <option value="KYCVerification" />
         <option value="ApiUSerDetails" />
-        <option value="UserIdFromKYC" />
-        <option value="isValidPanLog" />
       </list>
     </option>
   </component>
