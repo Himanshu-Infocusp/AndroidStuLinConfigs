@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CreateOrUpdateKYCUserDetailsRequest" />
+    <option name="mostRecentlyUsed" value="HasLoadedDataValue" />
     <option name="nonFavorites">
       <list>
+        <option value="HasLoadedDataValue" />
+        <option value="    Log.e(&quot;HasLoadedDataValue&quot;,hasLoadedData.toString()) " />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="KycVerificationGetStage" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="create_update_kyc" />
         <option value="KycUserNameError" />
         <option value="FetchDataName" />
-        <option value="KYCVerification" />
-        <option value="ApiUSerDetails" />
       </list>
     </option>
   </component>
