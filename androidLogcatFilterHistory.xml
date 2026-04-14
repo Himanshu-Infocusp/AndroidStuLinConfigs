@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="ProcessKycFileObjectRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="ProcessKycFileObjectRequest" />
         <option value="kyc_verification_signature_value" />
         <option value="HasLoadedDataValue" />
         <option value="    Log.e(&quot;HasLoadedDataValue&quot;,hasLoadedData.toString()) " />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="KycVerificationGetStage" />
         <option value="package:mine " />
-        <option value="ProcessKycFileObjectRequest" />
         <option value="SignatureValueFromApi" />
         <option value="ListFirebaseStorageFiles" />
         <option value="OnImagePickerFromPicker" />
