@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ProcessKycFileObjectRequest" />
+    <option name="mostRecentlyUsed" value="CreateOrUpdateKYCUserDetailsRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="ProcessKycFileObjectRequest" />
         <option value="kyc_verification_signature_value" />
         <option value="HasLoadedDataValue" />
         <option value="    Log.e(&quot;HasLoadedDataValue&quot;,hasLoadedData.toString()) " />
-        <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="KycVerificationGetStage" />
         <option value="package:mine " />
         <option value="SignatureValueFromApi" />
