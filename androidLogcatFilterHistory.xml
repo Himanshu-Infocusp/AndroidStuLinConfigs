@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KYC_VERIFICATION_SOON" />
+    <option name="mostRecentlyUsed" value="CreateOrUpdateKYCUserDetailsRequest" />
     <option name="nonFavorites">
       <list>
-        <option value="KYC_VERIFICATION_SOON" />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="ProcessKycFileObjectRequest" />
+        <option value="GetKycIdentityDocumentDetails" />
+        <option value="KYC_VERIFICATION_SOON" />
         <option value="kyc_verification_signature_value" />
         <option value="HasLoadedDataValue" />
         <option value="    Log.e(&quot;HasLoadedDataValue&quot;,hasLoadedData.toString()) " />
@@ -22,7 +23,6 @@
         <option value="CountrySelected__" />
         <option value="UserPhoneUmberData" />
         <option value="IsSaveButtonEnabled" />
-        <option value="create_update_kyc" />
       </list>
     </option>
   </component>
