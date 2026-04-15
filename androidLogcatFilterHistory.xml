@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CreateOrUpdateKYCUserDetailsRequest" />
+    <option name="mostRecentlyUsed" value="KYC_VERIFICATION_SOON" />
     <option name="nonFavorites">
       <list>
+        <option value="KYC_VERIFICATION_SOON" />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="ProcessKycFileObjectRequest" />
         <option value="kyc_verification_signature_value" />
@@ -22,7 +23,6 @@
         <option value="UserPhoneUmberData" />
         <option value="IsSaveButtonEnabled" />
         <option value="create_update_kyc" />
-        <option value="KycUserNameError" />
       </list>
     </option>
   </component>
