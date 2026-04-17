@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="kyc_verification_signature_value" />
     <option name="nonFavorites">
       <list>
+        <option value="kyc_verification_signature_value" />
         <option value="package:mine " />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="ProcessKycFileObjectRequest" />
         <option value="GetKycIdentityDocumentDetails" />
         <option value="KYC_VERIFICATION_SOON" />
-        <option value="kyc_verification_signature_value" />
         <option value="HasLoadedDataValue" />
         <option value="    Log.e(&quot;HasLoadedDataValue&quot;,hasLoadedData.toString()) " />
         <option value="KycVerificationGetStage" />
