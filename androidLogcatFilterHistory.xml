@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="kyc_verification_signature_value" />
+    <option name="mostRecentlyUsed" value="Current KYC Stage Value" />
     <option name="nonFavorites">
       <list>
+        <option value="Current KYC Stage Value" />
         <option value="kyc_verification_signature_value" />
         <option value="package:mine " />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
@@ -22,7 +23,6 @@
         <option value="KYCJourneyPanScreen" />
         <option value="CountrySelected__" />
         <option value="UserPhoneUmberData" />
-        <option value="IsSaveButtonEnabled" />
       </list>
     </option>
   </component>
