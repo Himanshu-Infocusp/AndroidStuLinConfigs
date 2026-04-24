@@ -4,9 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="auth" />
+        <option value="package:mine " />
+        <option value="RequestedInternalWebviewurl" />
+        <option value="WebviewRedirectPostbackUrl" />
+        <option value="DigiLocker callback triggered with URL" />
         <option value="Current KYC Stage Value" />
         <option value="kyc_verification_signature_value" />
-        <option value="package:mine " />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="ProcessKycFileObjectRequest" />
         <option value="GetKycIdentityDocumentDetails" />
@@ -20,9 +23,6 @@
         <option value="KycStageValue" />
         <option value="CreateAndUdpateUiState" />
         <option value="CreateAndUpdateApiResponse" />
-        <option value="KYCServiceRequest" />
-        <option value="KYCJourneyPanScreen" />
-        <option value="CountrySelected__" />
       </list>
     </option>
   </component>
