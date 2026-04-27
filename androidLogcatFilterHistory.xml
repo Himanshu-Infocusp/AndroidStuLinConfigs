@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ProcessWithESignUrl" />
+    <option name="mostRecentlyUsed" value="FinalKycStatusAfterEsign" />
     <option name="nonFavorites">
       <list>
+        <option value="FinalKycStatusAfterEsign" />
         <option value="RequestedInternalWebviewurl" />
         <option value="ProcessWithESignUrl" />
         <option value="auth" />
@@ -22,7 +23,6 @@
         <option value="ListFirebaseStorageFiles" />
         <option value="OnImagePickerFromPicker" />
         <option value="KycStageValue" />
-        <option value="CreateAndUdpateUiState" />
       </list>
     </option>
   </component>
