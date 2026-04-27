@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="auth" />
+    <option name="mostRecentlyUsed" value="ProcessWithESignUrl" />
     <option name="nonFavorites">
       <list>
+        <option value="ProcessWithESignUrl" />
         <option value="auth" />
         <option value="package:mine " />
         <option value="RequestedInternalWebviewurl" />
@@ -22,7 +23,6 @@
         <option value="OnImagePickerFromPicker" />
         <option value="KycStageValue" />
         <option value="CreateAndUdpateUiState" />
-        <option value="CreateAndUpdateApiResponse" />
       </list>
     </option>
   </component>
