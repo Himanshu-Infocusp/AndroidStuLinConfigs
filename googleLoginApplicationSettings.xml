@@ -1,26 +1,15 @@
 <application>
   <component name="GoogleLoginApplicationSettings">
-    <option name="activeUser" value="himanshu@infocusp.com" />
+    <option name="activeUser" value="ai.agents.17.07@gmail.com" />
     <option name="userEmail2FeaturesStore">
       <map>
-        <entry key="himanshu@infocusp.com">
+        <entry key="ai.agents.17.07@gmail.com">
           <value>
             <set>
               <option value="GiAS" />
-              <option value="User Info" />
-              <option value="Notifications" />
-            </set>
-          </value>
-        </entry>
-        <entry key="raghavsatyadev@gmail.com">
-          <value>
-            <set>
-              <option value="Android Vitals" />
-              <option value="Backup and Sync" />
               <option value="Firebase" />
-              <option value="GiAS" />
-              <option value="Notifications" />
               <option value="User Info" />
+              <option value="Notifications" />
             </set>
           </value>
         </entry>
