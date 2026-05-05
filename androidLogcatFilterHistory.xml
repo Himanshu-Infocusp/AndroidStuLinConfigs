@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KycStartJourneyUserId" />
+    <option name="mostRecentlyUsed" value="CreateOrUpdateKYCUserDetailsRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="KycStartJourneyUserId" />
         <option value="userId" />
         <option value="FinalKycStatusAfterEsign" />
@@ -14,7 +15,6 @@
         <option value="DigiLocker callback triggered with URL" />
         <option value="Current KYC Stage Value" />
         <option value="kyc_verification_signature_value" />
-        <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="ProcessKycFileObjectRequest" />
         <option value="GetKycIdentityDocumentDetails" />
         <option value="KYC_VERIFICATION_SOON" />
