@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FinalKycStatusAfterEsign" />
+    <option name="mostRecentlyUsed" value="KycStartJourneyUserId" />
     <option name="nonFavorites">
       <list>
+        <option value="KycStartJourneyUserId" />
+        <option value="userId" />
         <option value="FinalKycStatusAfterEsign" />
         <option value="RequestedInternalWebviewurl" />
         <option value="ProcessWithESignUrl" />
@@ -21,8 +23,6 @@
         <option value="KycVerificationGetStage" />
         <option value="SignatureValueFromApi" />
         <option value="ListFirebaseStorageFiles" />
-        <option value="OnImagePickerFromPicker" />
-        <option value="KycStageValue" />
       </list>
     </option>
   </component>
