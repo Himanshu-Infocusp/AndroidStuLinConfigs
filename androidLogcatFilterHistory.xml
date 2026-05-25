@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CreateOrUpdateKYCUserDetailsRequest" />
+    <option name="mostRecentlyUsed" value="FilterRowClicked" />
     <option name="nonFavorites">
       <list>
+        <option value="FilterRowClicked" />
         <option value="CreateOrUpdateKYCUserDetailsRequest" />
         <option value="KycStartJourneyUserId" />
         <option value="userId" />
@@ -22,7 +23,6 @@
         <option value="    Log.e(&quot;HasLoadedDataValue&quot;,hasLoadedData.toString()) " />
         <option value="KycVerificationGetStage" />
         <option value="SignatureValueFromApi" />
-        <option value="ListFirebaseStorageFiles" />
       </list>
     </option>
   </component>
